@@ -1,4 +1,4 @@
-﻿namespace Xultiak.Graphics
+﻿namespace Xultaik.Graphics
 {
     public class Buffer
     {

@@ -1,12 +1,11 @@
-﻿using engine.Games;
-using Silk.NET.Windowing;
+﻿using Silk.NET.Windowing;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Xultiak
+namespace Xultaik
 {
     public class Application
     {

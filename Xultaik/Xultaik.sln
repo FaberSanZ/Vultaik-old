@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xultiak", "Xultiak\Xultiak.csproj", "{E5E07BA2-F89A-41F5-9AFC-04BE8E906D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xultaik", "Xultaik\Xultaik.csproj", "{E5E07BA2-F89A-41F5-9AFC-04BE8E906D51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitializingDirect3D11", "InitializingDirect3D11\InitializingDirect3D11.csproj", "{2B2A0EF0-0AD7-462F-BCF6-6EF9C47939E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InitializingDirect3D11", "InitializingDirect3D11\InitializingDirect3D11.csproj", "{2B2A0EF0-0AD7-462F-BCF6-6EF9C47939E0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{103E3B8D-9B53-4F95-A7EF-9964C9834639}"
 EndProject

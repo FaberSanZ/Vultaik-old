@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Silk.NET.GLFW;
 using Silk.NET.Windowing;
 
-namespace engine.Games
+namespace Xultaik
 {
     public unsafe class Windows : IDisposable
     {
