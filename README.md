@@ -4,7 +4,7 @@
 
 
 ## Overview
-This toy engine is designed for the vulkan learning process, I mainly use it to experiment with graphical or computing techniques and should not be used as a cerium product as it may have memory leaks and faulty or poorly optimized implementation
+This toy engine is designed for the vulkan learning process, I mainly use it to experiment with graphical or computing techniques and should not be used as a cerium product as it may have memory leaks and faulty or poorly optimized implementations.
 
 ## Low-level rendering backend
 The rendering backend focuses entirely on Vulkan and HLSL, however, the API greatly simplifies the more painful points of writing straight Vulkan.
