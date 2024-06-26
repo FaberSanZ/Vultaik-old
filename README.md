@@ -13,4 +13,5 @@ The rendering backend focuses entirely on Vulkan and HLSL, however, the API grea
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/FaberSanZ/Vultaik/blob/master/LICENSE) 
+
 The code is licensed under MIT. Feel free to use it for whatever purpose.
