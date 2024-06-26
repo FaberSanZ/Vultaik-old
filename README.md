@@ -1,5 +1,5 @@
 
-  ##               Xultaik is a 2D/3D toy engine implemented in [DirectX 12®]([https://www.khronos.org/vulkan/](https://learn.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide))
+  ##               Xultaik Lite is a 2D/3D toy engine implemented in [DirectX 12®]([https://www.khronos.org/vulkan/](https://learn.microsoft.com/en-us/windows/win32/direct3d12/directx-12-programming-guide))
 
 
 
