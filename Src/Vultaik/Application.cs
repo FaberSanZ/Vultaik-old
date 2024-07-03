@@ -13,9 +13,9 @@ namespace Vultaik
 {
     public class Application
     {
-        public Application() 
+        public Application()
         {
-            Window = new(800, 600, "Vutaik");
+            Window = new(800, 600, "Vultaik");
             Time = new();
             Time.Reset();
         }
@@ -26,12 +26,12 @@ namespace Vultaik
 
 
 
+
         public void Run()
         {
 
             Initialize();
             LoadContentAsync();
-
             Time.Tick(); // update
             Window?.Show();
             //Window!.Resize += Resize;
@@ -44,10 +44,11 @@ namespace Vultaik
         }
 
 
+
+
         public virtual void Initialize()
         {
         }
-
 
         public virtual Task LoadContentAsync()
         {
