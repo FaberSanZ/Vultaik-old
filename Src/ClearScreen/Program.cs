@@ -1,11 +1,5 @@
-﻿using Vultaik;
+﻿using ClearScreen;
 
+using Sample sample = new();
+sample.Run();
 
-
-
-
-Window window = new Window(800, 600, "Vultaik");
-
-window.Show();
-
-window.RenderLoop(() => { });
