@@ -15,7 +15,7 @@ namespace Vultaik
     {
 
         internal VkBuffer handle;
-        internal VkBufferView buffer_biew;
+        internal VkBufferView buffer_view;
         internal VkAccessFlags access;
         internal VkDeviceMemory memory;
         internal ulong size;
